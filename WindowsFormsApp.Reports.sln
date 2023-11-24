@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp.Reports", "WindowsFormsApp.Reports\WindowsFormsApp.Reports.csproj", "{86DE604C-8204-4666-A772-0310A8BC9B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Reports", "WebApp.Reports\WebApp.Reports.csproj", "{196B5A54-88EE-48BA-8F73-C57D278519A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{7416DC96-247D-4552-AB94-1C6E6F0B1E91}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DE604C-8204-4666-A772-0310A8BC9B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DE604C-8204-4666-A772-0310A8BC9B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DE604C-8204-4666-A772-0310A8BC9B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DE604C-8204-4666-A772-0310A8BC9B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196B5A54-88EE-48BA-8F73-C57D278519A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196B5A54-88EE-48BA-8F73-C57D278519A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196B5A54-88EE-48BA-8F73-C57D278519A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196B5A54-88EE-48BA-8F73-C57D278519A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7EBA240-9B17-4E95-B622-777B1D811EC7}
+	EndGlobalSection
+EndGlobal
